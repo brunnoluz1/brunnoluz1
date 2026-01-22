@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**brunnoluz1/brunnoluz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 Academic Masters in Physics at UFRGS. And looking for a job once i'm finished it.
 - 🌱 I’m currently learning ...
