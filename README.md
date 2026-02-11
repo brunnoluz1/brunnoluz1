@@ -1,8 +1,8 @@
 ## Olá, camarada! 👋
 
 ### 🔭 Current Focus
-- [cite_start]**Academic:** Developing my Master's thesis at UFRGS on Physics Education[cite: 19, 91].
-- [cite_start]**Projects:** Automating data workflows and exploring LLM evaluation for scientific accuracy[cite: 75, 85, 98].
+- **Academic:** Developing my Master's thesis at UFRGS on Physics Education.
+- **Projects:** Automating data workflows and exploring LLM evaluation for scientific accuracy.
 - **Learning:** Deepening my knowledge in Sociocultural Analysis and how data can serve human liberation.
 
 ### 👯 Let's Collaborate
@@ -15,7 +15,7 @@
 - I love Physics and that means I love everything!
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunno-luz-1083b62bb/)
 
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
