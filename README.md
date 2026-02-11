@@ -4,19 +4,14 @@
 - **Academic:** Developing my Master's thesis at UFRGS on Physics Education.
 - **Projects:** Automating data workflows and exploring LLM evaluation for scientific accuracy.
 - **Learning:** Deepening my knowledge in Sociocultural Analysis and how data can serve human liberation.
-
 ### 👯 Let's Collaborate
 - I’m interested in projects that intersect **Technology and Social Impact**. If you are building something to improve "Humanity", count me in.
-
 ### 💬 Ask me about
 - Physics, the wonders of the universe, and, of course, how we can organize for a **socialist revolution** 🚩.
-
 ### ⚡ Fun Fact
 - I love Physics and that means I love everything!
-
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunno-luz-1083b62bb/)
-
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white) 
