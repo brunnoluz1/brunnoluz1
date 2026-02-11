@@ -12,3 +12,10 @@ Finding a good job.
 How are we going to do the socialist revolution.
 - ⚡ Fun fact: ...
 I love Physics and this means i love everything!
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4d6bff?style=for-the-badge&logo=ai&logoColor=white) 
+![Brazil](https://img.shields.io/badge/Brazil-009739?style=for-the-badge&logo=brazil&logoColor=fed100)
