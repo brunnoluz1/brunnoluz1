@@ -1,19 +1,23 @@
-## Hi there 👋
+## Olá, camarada! 👋
 
-- 🔭 I’m currently working on ...
-Academic Masters in Physics at UFRGS. And looking for a job once i'm finished it.
-- 🌱 I’m currently learning ...
-Sociocultural Analysis, Data Analysis, Python3, AI automations...
-- 👯 I’m looking to collaborate on ...
-Humanity
-- 🤔 I’m looking for help with ...
-Finding a good job.
-- 💬 Ask me about ...
-How are we going to do the socialist revolution.
-- ⚡ Fun fact: ...
-I love Physics and this means i love everything!
+### 🔭 Current Focus
+- [cite_start]**Academic:** Developing my Master's thesis at UFRGS on Physics Education[cite: 19, 91].
+- [cite_start]**Projects:** Automating data workflows and exploring LLM evaluation for scientific accuracy[cite: 75, 85, 98].
+- **Learning:** Deepening my knowledge in Sociocultural Analysis and how data can serve human liberation.
 
+### 👯 Let's Collaborate
+- I’m interested in projects that intersect **Technology and Social Impact**. If you are building something to improve "Humanity", count me in.
 
+### 💬 Ask me about
+- Physics, the wonders of the universe, and, of course, how we can organize for a **socialist revolution** 🚩.
+
+### ⚡ Fun Fact
+- I love Physics and that means I love everything!
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
+
+### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
