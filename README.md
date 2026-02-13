@@ -1,13 +1,14 @@
 ## Olá, camarada! 👋
 
 ### 🔭 Current Focus
+- **Git** Currently organizing my new PC and this messy GitHub
 - **Academic:** Developing my Master's thesis at UFRGS on Physics Education.
 - **Projects:** Automating data workflows and exploring LLM evaluation for scientific accuracy.
 - **Learning:** Deepening my knowledge in Sociocultural Analysis and how data can serve human liberation.
 ### 👯 Let's Collaborate
 - I’m interested in projects that intersect **Technology and Social Impact**. If you are building something to improve "Humanity", count me in.
 ### 💬 Ask me about
-- Physics, the wonders of the universe, and, of course, how we can organize for a **socialist revolution** 🚩.
+- Physics, the wonders of the universe, and, of course, how we can organize for a **revolution** 🚩.
 ### ⚡ Fun Fact
 - I love Physics and that means I love everything!
 ### 📫 Connect with me:
